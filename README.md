@@ -4,7 +4,7 @@ An AI-powered assistant trained on Traditional Chinese Medicine (TCM) principles
 
 Five Element AI is a neural network trained on Traditional Chinese Medicine (TCM) principles to recommend personalized acupuncture points based on physical symptoms, pulse and tongue diagnoses, and spiritual goals.
 
-Please note the synthetic data is highly imbalanced. This is merely a proof of concept (pipeline) that is being worked through. 
+Please note the synthetic data is highly imbalanced. This is merely a toy model that is being worked through. 
 ---
 
 ## Created by
