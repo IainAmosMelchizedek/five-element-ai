@@ -101,7 +101,7 @@ This project isn’t just about AI — it’s about integrating spirituality, ho
 "Integrity First, Future Forward."
 
 License
-Open for educational and spiritual research purposes. Attribution appreciated.
+Open for educational and spiritual research purposes. Attribution appreciated. In other words: I’m offering this to the world, with no ego — but please honor the Spirit it came from: Melchizedek.
 
 Contact:
 
