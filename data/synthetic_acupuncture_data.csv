@@ -1,0 +1,501 @@
+symptom_1,symptom_2,symptom_3,tongue_color,pulse_type,spiritual_goal,acupoint
+headache,irritability,anger,red,wiry,release anger,LV3
+anger,red eyes,headache,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,headache,red,wiry,gain clarity,LV3
+red eyes,irritability,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,headache,red,wiry,gain clarity,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+red eyes,headache,tendon stiffness,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,embrace change,LV3
+irritability,headache,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,anger,red,wiry,release anger,LV3
+red eyes,irritability,headache,red,wiry,gain clarity,LV3
+red eyes,headache,anger,red,wiry,release anger,LV3
+irritability,red eyes,anger,red,wiry,embrace change,LV3
+headache,anger,tendon stiffness,red,wiry,gain clarity,LV3
+irritability,headache,anger,red,wiry,embrace change,LV3
+red eyes,headache,irritability,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,release anger,LV3
+headache,irritability,anger,red,wiry,gain clarity,LV3
+irritability,anger,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,anger,irritability,red,wiry,embrace change,LV3
+anger,red eyes,irritability,red,wiry,gain clarity,LV3
+red eyes,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+headache,tendon stiffness,irritability,red,wiry,release anger,LV3
+anger,irritability,headache,red,wiry,embrace change,LV3
+tendon stiffness,irritability,anger,red,wiry,gain clarity,LV3
+anger,headache,red eyes,red,wiry,gain clarity,LV3
+anger,headache,irritability,red,wiry,gain clarity,LV3
+irritability,headache,tendon stiffness,red,wiry,release anger,LV3
+anger,irritability,red eyes,red,wiry,release anger,LV3
+headache,red eyes,tendon stiffness,red,wiry,gain clarity,LV3
+anger,headache,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,red eyes,anger,red,wiry,release anger,LV3
+anger,tendon stiffness,irritability,red,wiry,release anger,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+red eyes,anger,tendon stiffness,red,wiry,release anger,LV3
+headache,irritability,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,irritability,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,headache,irritability,red,wiry,gain clarity,LV3
+anger,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+irritability,anger,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,red eyes,irritability,red,wiry,embrace change,LV3
+red eyes,anger,tendon stiffness,red,wiry,gain clarity,LV3
+anger,headache,irritability,red,wiry,gain clarity,LV3
+red eyes,anger,irritability,red,wiry,embrace change,LV3
+tendon stiffness,irritability,red eyes,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,gain clarity,LV3
+tendon stiffness,headache,red eyes,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+tendon stiffness,anger,red eyes,red,wiry,gain clarity,LV3
+anger,red eyes,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,headache,red,wiry,gain clarity,LV3
+anger,irritability,tendon stiffness,red,wiry,release anger,LV3
+headache,red eyes,irritability,red,wiry,release anger,LV3
+tendon stiffness,red eyes,anger,red,wiry,gain clarity,LV3
+red eyes,irritability,headache,red,wiry,gain clarity,LV3
+headache,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+red eyes,irritability,tendon stiffness,red,wiry,release anger,LV3
+anger,red eyes,irritability,red,wiry,embrace change,LV3
+anger,headache,irritability,red,wiry,release anger,LV3
+red eyes,irritability,anger,red,wiry,release anger,LV3
+irritability,anger,red eyes,red,wiry,gain clarity,LV3
+anger,tendon stiffness,irritability,red,wiry,embrace change,LV3
+red eyes,headache,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,irritability,headache,red,wiry,release anger,LV3
+tendon stiffness,headache,irritability,red,wiry,embrace change,LV3
+headache,irritability,anger,red,wiry,release anger,LV3
+anger,tendon stiffness,headache,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+irritability,tendon stiffness,red eyes,red,wiry,release anger,LV3
+red eyes,headache,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,release anger,LV3
+anger,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+anger,red eyes,headache,red,wiry,release anger,LV3
+headache,anger,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,irritability,headache,red,wiry,gain clarity,LV3
+headache,red eyes,irritability,red,wiry,gain clarity,LV3
+tendon stiffness,anger,irritability,red,wiry,gain clarity,LV3
+tendon stiffness,headache,irritability,red,wiry,embrace change,LV3
+headache,tendon stiffness,anger,red,wiry,gain clarity,LV3
+tendon stiffness,irritability,red eyes,red,wiry,embrace change,LV3
+tendon stiffness,irritability,red eyes,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,headache,red,wiry,gain clarity,LV3
+tendon stiffness,headache,anger,red,wiry,release anger,LV3
+irritability,headache,red eyes,red,wiry,embrace change,LV3
+headache,irritability,tendon stiffness,red,wiry,release anger,LV3
+irritability,tendon stiffness,headache,red,wiry,embrace change,LV3
+red eyes,anger,tendon stiffness,red,wiry,gain clarity,LV3
+irritability,headache,tendon stiffness,red,wiry,embrace change,LV3
+red eyes,irritability,tendon stiffness,red,wiry,embrace change,LV3
+anger,irritability,tendon stiffness,red,wiry,embrace change,LV3
+headache,irritability,anger,red,wiry,release anger,LV3
+irritability,anger,tendon stiffness,red,wiry,release anger,LV3
+irritability,tendon stiffness,headache,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,anger,red,wiry,release anger,LV3
+headache,anger,red eyes,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,headache,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,anger,red,wiry,gain clarity,LV3
+irritability,red eyes,headache,red,wiry,embrace change,LV3
+irritability,headache,tendon stiffness,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,embrace change,LV3
+irritability,tendon stiffness,headache,red,wiry,gain clarity,LV3
+anger,irritability,red eyes,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,irritability,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,anger,red,wiry,embrace change,LV3
+headache,tendon stiffness,irritability,red,wiry,gain clarity,LV3
+tendon stiffness,anger,irritability,red,wiry,embrace change,LV3
+tendon stiffness,irritability,headache,red,wiry,release anger,LV3
+red eyes,irritability,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+irritability,headache,anger,red,wiry,release anger,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+headache,red eyes,irritability,red,wiry,embrace change,LV3
+headache,irritability,anger,red,wiry,embrace change,LV3
+tendon stiffness,headache,irritability,red,wiry,gain clarity,LV3
+irritability,anger,headache,red,wiry,gain clarity,LV3
+red eyes,anger,headache,red,wiry,embrace change,LV3
+anger,headache,red eyes,red,wiry,gain clarity,LV3
+red eyes,anger,tendon stiffness,red,wiry,release anger,LV3
+anger,red eyes,headache,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+anger,red eyes,headache,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,anger,red,wiry,release anger,LV3
+anger,red eyes,irritability,red,wiry,gain clarity,LV3
+red eyes,headache,irritability,red,wiry,embrace change,LV3
+irritability,tendon stiffness,red eyes,red,wiry,embrace change,LV3
+headache,red eyes,anger,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+irritability,red eyes,anger,red,wiry,gain clarity,LV3
+irritability,headache,tendon stiffness,red,wiry,embrace change,LV3
+irritability,red eyes,headache,red,wiry,release anger,LV3
+irritability,tendon stiffness,headache,red,wiry,embrace change,LV3
+red eyes,headache,tendon stiffness,red,wiry,release anger,LV3
+headache,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+tendon stiffness,headache,anger,red,wiry,gain clarity,LV3
+anger,red eyes,headache,red,wiry,gain clarity,LV3
+irritability,headache,anger,red,wiry,gain clarity,LV3
+irritability,anger,red eyes,red,wiry,embrace change,LV3
+headache,anger,irritability,red,wiry,release anger,LV3
+headache,anger,tendon stiffness,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+headache,red eyes,tendon stiffness,red,wiry,gain clarity,LV3
+anger,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+irritability,headache,red eyes,red,wiry,gain clarity,LV3
+headache,anger,tendon stiffness,red,wiry,embrace change,LV3
+anger,tendon stiffness,headache,red,wiry,gain clarity,LV3
+headache,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+tendon stiffness,anger,irritability,red,wiry,embrace change,LV3
+red eyes,irritability,anger,red,wiry,release anger,LV3
+tendon stiffness,irritability,anger,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,irritability,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,anger,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,gain clarity,LV3
+red eyes,irritability,anger,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,red eyes,red,wiry,release anger,LV3
+irritability,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+red eyes,anger,headache,red,wiry,release anger,LV3
+anger,headache,irritability,red,wiry,embrace change,LV3
+irritability,red eyes,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,red eyes,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+headache,anger,irritability,red,wiry,release anger,LV3
+headache,red eyes,tendon stiffness,red,wiry,release anger,LV3
+anger,irritability,red eyes,red,wiry,embrace change,LV3
+red eyes,irritability,anger,red,wiry,embrace change,LV3
+headache,anger,red eyes,red,wiry,gain clarity,LV3
+anger,irritability,headache,red,wiry,gain clarity,LV3
+headache,anger,tendon stiffness,red,wiry,release anger,LV3
+anger,headache,red eyes,red,wiry,release anger,LV3
+anger,headache,tendon stiffness,red,wiry,embrace change,LV3
+anger,irritability,headache,red,wiry,embrace change,LV3
+tendon stiffness,irritability,anger,red,wiry,release anger,LV3
+irritability,tendon stiffness,headache,red,wiry,gain clarity,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+headache,red eyes,anger,red,wiry,embrace change,LV3
+headache,tendon stiffness,anger,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+headache,tendon stiffness,anger,red,wiry,gain clarity,LV3
+anger,red eyes,irritability,red,wiry,gain clarity,LV3
+irritability,red eyes,anger,red,wiry,gain clarity,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+red eyes,anger,irritability,red,wiry,gain clarity,LV3
+headache,red eyes,irritability,red,wiry,embrace change,LV3
+anger,red eyes,irritability,red,wiry,release anger,LV3
+headache,red eyes,irritability,red,wiry,release anger,LV3
+anger,headache,tendon stiffness,red,wiry,embrace change,LV3
+anger,headache,red eyes,red,wiry,release anger,LV3
+headache,anger,red eyes,red,wiry,release anger,LV3
+anger,tendon stiffness,headache,red,wiry,release anger,LV3
+tendon stiffness,red eyes,headache,red,wiry,gain clarity,LV3
+red eyes,irritability,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,anger,red eyes,red,wiry,release anger,LV3
+anger,irritability,red eyes,red,wiry,release anger,LV3
+headache,irritability,tendon stiffness,red,wiry,embrace change,LV3
+red eyes,headache,tendon stiffness,red,wiry,release anger,LV3
+headache,tendon stiffness,red eyes,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,headache,red,wiry,gain clarity,LV3
+red eyes,headache,anger,red,wiry,gain clarity,LV3
+anger,red eyes,tendon stiffness,red,wiry,gain clarity,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+anger,headache,irritability,red,wiry,release anger,LV3
+anger,tendon stiffness,headache,red,wiry,release anger,LV3
+headache,irritability,red eyes,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,gain clarity,LV3
+headache,tendon stiffness,red eyes,red,wiry,embrace change,LV3
+tendon stiffness,anger,headache,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,anger,red,wiry,gain clarity,LV3
+red eyes,headache,tendon stiffness,red,wiry,gain clarity,LV3
+tendon stiffness,anger,irritability,red,wiry,embrace change,LV3
+red eyes,headache,irritability,red,wiry,release anger,LV3
+anger,irritability,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,anger,irritability,red,wiry,embrace change,LV3
+headache,irritability,anger,red,wiry,release anger,LV3
+irritability,anger,red eyes,red,wiry,embrace change,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+headache,red eyes,tendon stiffness,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,embrace change,LV3
+anger,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+red eyes,irritability,anger,red,wiry,release anger,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+irritability,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+anger,tendon stiffness,headache,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,anger,red,wiry,release anger,LV3
+red eyes,irritability,tendon stiffness,red,wiry,embrace change,LV3
+headache,red eyes,anger,red,wiry,release anger,LV3
+anger,headache,tendon stiffness,red,wiry,embrace change,LV3
+irritability,headache,red eyes,red,wiry,embrace change,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+red eyes,headache,anger,red,wiry,embrace change,LV3
+irritability,tendon stiffness,headache,red,wiry,release anger,LV3
+anger,red eyes,headache,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+anger,tendon stiffness,irritability,red,wiry,embrace change,LV3
+tendon stiffness,irritability,headache,red,wiry,embrace change,LV3
+tendon stiffness,irritability,headache,red,wiry,embrace change,LV3
+headache,anger,tendon stiffness,red,wiry,release anger,LV3
+headache,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+irritability,anger,headache,red,wiry,embrace change,LV3
+anger,tendon stiffness,red eyes,red,wiry,release anger,LV3
+tendon stiffness,irritability,red eyes,red,wiry,embrace change,LV3
+anger,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+red eyes,headache,irritability,red,wiry,gain clarity,LV3
+anger,irritability,headache,red,wiry,gain clarity,LV3
+irritability,red eyes,anger,red,wiry,embrace change,LV3
+anger,red eyes,irritability,red,wiry,embrace change,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+tendon stiffness,irritability,red eyes,red,wiry,release anger,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,headache,red,wiry,embrace change,LV3
+headache,red eyes,irritability,red,wiry,release anger,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,release anger,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,red eyes,red,wiry,release anger,LV3
+headache,tendon stiffness,red eyes,red,wiry,release anger,LV3
+irritability,headache,tendon stiffness,red,wiry,embrace change,LV3
+irritability,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,gain clarity,LV3
+red eyes,headache,anger,red,wiry,gain clarity,LV3
+anger,tendon stiffness,headache,red,wiry,release anger,LV3
+headache,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+red eyes,irritability,anger,red,wiry,embrace change,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,anger,irritability,red,wiry,gain clarity,LV3
+headache,irritability,anger,red,wiry,gain clarity,LV3
+anger,headache,red eyes,red,wiry,embrace change,LV3
+headache,red eyes,tendon stiffness,red,wiry,release anger,LV3
+anger,tendon stiffness,headache,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,gain clarity,LV3
+irritability,anger,tendon stiffness,red,wiry,embrace change,LV3
+irritability,red eyes,headache,red,wiry,release anger,LV3
+red eyes,tendon stiffness,headache,red,wiry,release anger,LV3
+tendon stiffness,headache,red eyes,red,wiry,release anger,LV3
+irritability,red eyes,anger,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+anger,irritability,tendon stiffness,red,wiry,release anger,LV3
+irritability,anger,tendon stiffness,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,gain clarity,LV3
+red eyes,anger,headache,red,wiry,release anger,LV3
+irritability,red eyes,headache,red,wiry,embrace change,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+irritability,anger,red eyes,red,wiry,embrace change,LV3
+anger,headache,red eyes,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,headache,red,wiry,release anger,LV3
+anger,headache,irritability,red,wiry,embrace change,LV3
+headache,red eyes,irritability,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,anger,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+headache,anger,tendon stiffness,red,wiry,embrace change,LV3
+red eyes,headache,anger,red,wiry,gain clarity,LV3
+red eyes,headache,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,anger,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,irritability,anger,red,wiry,embrace change,LV3
+anger,headache,red eyes,red,wiry,embrace change,LV3
+irritability,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+headache,tendon stiffness,anger,red,wiry,embrace change,LV3
+anger,headache,irritability,red,wiry,release anger,LV3
+anger,red eyes,irritability,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,release anger,LV3
+red eyes,tendon stiffness,headache,red,wiry,release anger,LV3
+headache,anger,irritability,red,wiry,gain clarity,LV3
+red eyes,headache,irritability,red,wiry,release anger,LV3
+irritability,anger,headache,red,wiry,embrace change,LV3
+tendon stiffness,irritability,anger,red,wiry,gain clarity,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+headache,irritability,anger,red,wiry,embrace change,LV3
+irritability,red eyes,tendon stiffness,red,wiry,release anger,LV3
+anger,headache,red eyes,red,wiry,gain clarity,LV3
+anger,tendon stiffness,red eyes,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,gain clarity,LV3
+red eyes,irritability,headache,red,wiry,release anger,LV3
+irritability,anger,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,headache,red,wiry,embrace change,LV3
+headache,irritability,anger,red,wiry,embrace change,LV3
+red eyes,headache,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,red eyes,headache,red,wiry,gain clarity,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+anger,irritability,headache,red,wiry,gain clarity,LV3
+red eyes,irritability,anger,red,wiry,release anger,LV3
+red eyes,anger,irritability,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,irritability,red,wiry,release anger,LV3
+irritability,headache,anger,red,wiry,embrace change,LV3
+anger,irritability,headache,red,wiry,release anger,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+anger,irritability,headache,red,wiry,release anger,LV3
+red eyes,anger,headache,red,wiry,gain clarity,LV3
+headache,anger,tendon stiffness,red,wiry,embrace change,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+red eyes,anger,headache,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,release anger,LV3
+anger,irritability,headache,red,wiry,release anger,LV3
+anger,headache,red eyes,red,wiry,embrace change,LV3
+anger,headache,tendon stiffness,red,wiry,embrace change,LV3
+irritability,headache,anger,red,wiry,embrace change,LV3
+red eyes,anger,tendon stiffness,red,wiry,embrace change,LV3
+irritability,red eyes,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,headache,irritability,red,wiry,embrace change,LV3
+anger,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+irritability,tendon stiffness,headache,red,wiry,release anger,LV3
+headache,irritability,red eyes,red,wiry,gain clarity,LV3
+anger,irritability,headache,red,wiry,gain clarity,LV3
+tendon stiffness,anger,headache,red,wiry,gain clarity,LV3
+headache,irritability,anger,red,wiry,release anger,LV3
+anger,red eyes,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+headache,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+irritability,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,anger,headache,red,wiry,release anger,LV3
+red eyes,tendon stiffness,anger,red,wiry,release anger,LV3
+headache,anger,red eyes,red,wiry,gain clarity,LV3
+anger,irritability,red eyes,red,wiry,embrace change,LV3
+irritability,anger,headache,red,wiry,embrace change,LV3
+headache,tendon stiffness,anger,red,wiry,release anger,LV3
+red eyes,anger,headache,red,wiry,embrace change,LV3
+red eyes,anger,irritability,red,wiry,gain clarity,LV3
+anger,irritability,red eyes,red,wiry,gain clarity,LV3
+anger,irritability,headache,red,wiry,embrace change,LV3
+red eyes,irritability,headache,red,wiry,embrace change,LV3
+anger,headache,red eyes,red,wiry,embrace change,LV3
+tendon stiffness,anger,red eyes,red,wiry,embrace change,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+anger,red eyes,headache,red,wiry,embrace change,LV3
+headache,red eyes,tendon stiffness,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,headache,red,wiry,embrace change,LV3
+red eyes,irritability,anger,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+irritability,red eyes,headache,red,wiry,gain clarity,LV3
+red eyes,anger,tendon stiffness,red,wiry,gain clarity,LV3
+tendon stiffness,anger,headache,red,wiry,gain clarity,LV3
+red eyes,irritability,tendon stiffness,red,wiry,gain clarity,LV3
+anger,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+red eyes,anger,tendon stiffness,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,headache,red,wiry,gain clarity,LV3
+anger,headache,irritability,red,wiry,release anger,LV3
+red eyes,anger,tendon stiffness,red,wiry,gain clarity,LV3
+tendon stiffness,red eyes,irritability,red,wiry,gain clarity,LV3
+red eyes,irritability,headache,red,wiry,gain clarity,LV3
+irritability,anger,red eyes,red,wiry,gain clarity,LV3
+irritability,red eyes,tendon stiffness,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+tendon stiffness,irritability,headache,red,wiry,embrace change,LV3
+headache,red eyes,tendon stiffness,red,wiry,release anger,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+red eyes,tendon stiffness,headache,red,wiry,release anger,LV3
+tendon stiffness,headache,red eyes,red,wiry,embrace change,LV3
+irritability,anger,tendon stiffness,red,wiry,embrace change,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+irritability,red eyes,headache,red,wiry,release anger,LV3
+irritability,anger,tendon stiffness,red,wiry,embrace change,LV3
+anger,irritability,headache,red,wiry,release anger,LV3
+tendon stiffness,red eyes,headache,red,wiry,embrace change,LV3
+irritability,anger,red eyes,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,embrace change,LV3
+irritability,headache,tendon stiffness,red,wiry,release anger,LV3
+irritability,headache,red eyes,red,wiry,embrace change,LV3
+irritability,red eyes,headache,red,wiry,gain clarity,LV3
+red eyes,anger,headache,red,wiry,release anger,LV3
+red eyes,irritability,headache,red,wiry,release anger,LV3
+irritability,anger,headache,red,wiry,release anger,LV3
+red eyes,anger,headache,red,wiry,release anger,LV3
+irritability,headache,anger,red,wiry,embrace change,LV3
+headache,irritability,red eyes,red,wiry,gain clarity,LV3
+anger,red eyes,tendon stiffness,red,wiry,release anger,LV3
+red eyes,irritability,headache,red,wiry,embrace change,LV3
+irritability,anger,tendon stiffness,red,wiry,gain clarity,LV3
+anger,tendon stiffness,irritability,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,irritability,red,wiry,gain clarity,LV3
+headache,anger,irritability,red,wiry,gain clarity,LV3
+red eyes,anger,headache,red,wiry,embrace change,LV3
+tendon stiffness,irritability,red eyes,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+irritability,headache,red eyes,red,wiry,embrace change,LV3
+irritability,headache,tendon stiffness,red,wiry,gain clarity,LV3
+headache,red eyes,anger,red,wiry,release anger,LV3
+irritability,headache,anger,red,wiry,embrace change,LV3
+irritability,tendon stiffness,red eyes,red,wiry,gain clarity,LV3
+headache,red eyes,irritability,red,wiry,gain clarity,LV3
+irritability,anger,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,headache,red eyes,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+tendon stiffness,headache,irritability,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,anger,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,release anger,LV3
+irritability,headache,red eyes,red,wiry,release anger,LV3
+red eyes,irritability,headache,red,wiry,release anger,LV3
+irritability,anger,red eyes,red,wiry,release anger,LV3
+headache,tendon stiffness,red eyes,red,wiry,embrace change,LV3
+tendon stiffness,irritability,headache,red,wiry,release anger,LV3
+tendon stiffness,irritability,headache,red,wiry,release anger,LV3
+headache,tendon stiffness,anger,red,wiry,embrace change,LV3
+headache,red eyes,anger,red,wiry,gain clarity,LV3
+headache,irritability,tendon stiffness,red,wiry,embrace change,LV3
+irritability,anger,headache,red,wiry,embrace change,LV3
+tendon stiffness,anger,red eyes,red,wiry,release anger,LV3
+headache,anger,red eyes,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,release anger,LV3
+irritability,red eyes,headache,red,wiry,embrace change,LV3
+red eyes,tendon stiffness,irritability,red,wiry,embrace change,LV3
+irritability,tendon stiffness,anger,red,wiry,release anger,LV3
+tendon stiffness,anger,red eyes,red,wiry,release anger,LV3
+red eyes,headache,anger,red,wiry,embrace change,LV3
+anger,headache,irritability,red,wiry,release anger,LV3
+irritability,anger,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,irritability,red eyes,red,wiry,gain clarity,LV3
+anger,red eyes,irritability,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,headache,red,wiry,gain clarity,LV3
+headache,tendon stiffness,anger,red,wiry,release anger,LV3
+red eyes,irritability,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,headache,red eyes,red,wiry,embrace change,LV3
+red eyes,headache,anger,red,wiry,embrace change,LV3
+tendon stiffness,red eyes,irritability,red,wiry,embrace change,LV3
+red eyes,irritability,headache,red,wiry,gain clarity,LV3
+irritability,headache,anger,red,wiry,gain clarity,LV3
+red eyes,tendon stiffness,anger,red,wiry,gain clarity,LV3
+anger,tendon stiffness,irritability,red,wiry,embrace change,LV3
+headache,anger,tendon stiffness,red,wiry,release anger,LV3
+tendon stiffness,irritability,red eyes,red,wiry,gain clarity,LV3
+tendon stiffness,anger,irritability,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,embrace change,LV3
+red eyes,anger,headache,red,wiry,release anger,LV3
+headache,anger,tendon stiffness,red,wiry,embrace change,LV3
+headache,irritability,red eyes,red,wiry,embrace change,LV3
+irritability,tendon stiffness,headache,red,wiry,embrace change,LV3
+headache,anger,tendon stiffness,red,wiry,release anger,LV3
+headache,red eyes,anger,red,wiry,gain clarity,LV3
+anger,red eyes,tendon stiffness,red,wiry,release anger,LV3
+irritability,tendon stiffness,anger,red,wiry,release anger,LV3
+irritability,red eyes,tendon stiffness,red,wiry,release anger,LV3
+headache,tendon stiffness,irritability,red,wiry,embrace change,LV3
+tendon stiffness,anger,irritability,red,wiry,embrace change,LV3
+anger,red eyes,irritability,red,wiry,embrace change,LV3
+tendon stiffness,headache,red eyes,red,wiry,release anger,LV3
+red eyes,anger,irritability,red,wiry,embrace change,LV3
+irritability,anger,tendon stiffness,red,wiry,gain clarity,LV3
+irritability,red eyes,headache,red,wiry,release anger,LV3
+red eyes,tendon stiffness,irritability,red,wiry,embrace change,LV3
+red eyes,irritability,anger,red,wiry,embrace change,LV3
+irritability,tendon stiffness,headache,red,wiry,embrace change,LV3
+headache,tendon stiffness,red eyes,red,wiry,release anger,LV3
+tendon stiffness,anger,red eyes,red,wiry,gain clarity,LV3
+irritability,tendon stiffness,headache,red,wiry,release anger,LV3
+headache,tendon stiffness,anger,red,wiry,gain clarity,LV3
+headache,irritability,tendon stiffness,red,wiry,release anger,LV3
+anger,tendon stiffness,headache,red,wiry,release anger,LV3
